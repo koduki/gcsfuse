@@ -55,6 +55,8 @@ To learn about the benefits of using Cloud Storage FUSE for machine learning pro
 
 ## Limitations and key differences from POSIX file systems
 
+See [Draft: Batch-Optimized FUSE Design](docs/batch_optimized_fuse_design.md) for a proposal aimed at high-throughput batch handoff semantics.
+
 To learn about limitations and differences between Cloud Storage FUSE and POSIX file systems, see https://cloud.google.com/storage/docs/gcs-fuse#differences-and-limitations.
 
 ## Pricing for Cloud Storage FUSE
